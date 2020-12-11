@@ -1,0 +1,13 @@
+C:\Users\nilma\Desktop\Polimorfismo- sobrecarga\bin\Debug\netcoreapp3.1\Polimorfismo- sobrecarga.exe
+C:\Users\nilma\Desktop\Polimorfismo- sobrecarga\bin\Debug\netcoreapp3.1\Polimorfismo- sobrecarga.deps.json
+C:\Users\nilma\Desktop\Polimorfismo- sobrecarga\bin\Debug\netcoreapp3.1\Polimorfismo- sobrecarga.runtimeconfig.json
+C:\Users\nilma\Desktop\Polimorfismo- sobrecarga\bin\Debug\netcoreapp3.1\Polimorfismo- sobrecarga.runtimeconfig.dev.json
+C:\Users\nilma\Desktop\Polimorfismo- sobrecarga\bin\Debug\netcoreapp3.1\Polimorfismo- sobrecarga.dll
+C:\Users\nilma\Desktop\Polimorfismo- sobrecarga\bin\Debug\netcoreapp3.1\Polimorfismo- sobrecarga.pdb
+C:\Users\nilma\Desktop\Polimorfismo- sobrecarga\obj\Debug\netcoreapp3.1\Polimorfismo- sobrecarga.csprojAssemblyReference.cache
+C:\Users\nilma\Desktop\Polimorfismo- sobrecarga\obj\Debug\netcoreapp3.1\Polimorfismo- sobrecarga.AssemblyInfoInputs.cache
+C:\Users\nilma\Desktop\Polimorfismo- sobrecarga\obj\Debug\netcoreapp3.1\Polimorfismo- sobrecarga.AssemblyInfo.cs
+C:\Users\nilma\Desktop\Polimorfismo- sobrecarga\obj\Debug\netcoreapp3.1\Polimorfismo- sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\nilma\Desktop\Polimorfismo- sobrecarga\obj\Debug\netcoreapp3.1\Polimorfismo- sobrecarga.dll
+C:\Users\nilma\Desktop\Polimorfismo- sobrecarga\obj\Debug\netcoreapp3.1\Polimorfismo- sobrecarga.pdb
+C:\Users\nilma\Desktop\Polimorfismo- sobrecarga\obj\Debug\netcoreapp3.1\Polimorfismo- sobrecarga.genruntimeconfig.cache
